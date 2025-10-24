@@ -1,0 +1,18 @@
+[
+    {
+        "categoryId": 1,
+        "categoryName": "Web Development"
+    },
+    {
+        "categoryId": 2,
+        "categoryName": "Flutter Development"
+    },
+    {
+        "categoryId": 3,
+        "categoryName": "Data Analysis"
+    },
+    {
+        "categoryId": 4,
+        "categoryName": "Python Instructor"
+    }
+]
